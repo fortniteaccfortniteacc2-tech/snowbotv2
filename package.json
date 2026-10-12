@@ -1,0 +1,16 @@
+{
+  "name": "main-game-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord admin bot for the Main Game Roblox place",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
